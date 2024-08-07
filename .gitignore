@@ -1,5 +1,14 @@
-
 .DS_Store
 archive/
-datasets/top10milliondomains.csv
-finalModel
+datasets/raw/top10milliondomains.csv
+finalModel/scenario_1_albert
+finalModel/scenario_2_albert
+finalModel/scenario_3_deberta
+finalModel/scenario_4_deberta
+finalModel/scenario_1_albert.zip
+finalModel/scenario_2_albert.zip
+finalModel/scenario_3_deberta.zip
+finalModel/scenario_4_deberta.zip
+Archive.zip
+api_test.ipynb
+
